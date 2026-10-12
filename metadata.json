@@ -1,0 +1,6 @@
+{
+  "name": "VietMap GPX Viewer",
+  "description": "Ứng dụng chuyên nghiệp xem, phân tích và quản lý file GPX trên nền bản đồ OpenStreetMap với chú thích khẳng định chủ quyền Hoàng Sa - Trường Sa của Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
